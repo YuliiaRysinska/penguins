@@ -7,6 +7,6 @@ I like [site](https://www.w3schools.com)
 
 $f(x) = x^2$
 
-$\sum_{i = 0}^{n-1}i$
+$\sum_{i = 0}^{n-1} i $
 
 
