@@ -20,7 +20,5 @@ The assessment focuses on the widely available [palmerpenguins data set](https:/
 # Project
 Select two variables from the data set and provide an analysis of how correlated they are.
 
-# Presentational Component 
-Ensure your repository is tidy, with no unnecessary items. Ensure your README.md and .gitignore files are appropriate. Make sure your notebook contains a single cohesive narrative about the data set.
-
+###  Supervisor ATU:  Ian McLoughlin
 
