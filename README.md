@@ -21,4 +21,9 @@ The assessment focuses on the widely available [palmerpenguins data set](https:/
 Select two variables from the data set and provide an analysis of how correlated they are.
 
 ###  Supervisor ATU:  Ian McLoughlin
+#### References:
+1) https://github.com/ianmcloughlin/mywork 
+2) Python Software Foundation. Welcome to python.org. https://www.python.org
+3) https://realpython.com/
+4) 
 
