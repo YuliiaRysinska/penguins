@@ -22,8 +22,20 @@ Select two variables from the data set and provide an analysis of how correlated
 
 ###  Supervisor ATU:  Ian McLoughlin
 #### References:
-1) https://github.com/ianmcloughlin/mywork 
-2) Python Software Foundation. Welcome to python.org. https://www.python.org
-3) https://realpython.com/
-4) https://www.w3schools.com/
+
+1)  Mcloughlin Github: 
+ https://github.com/ianmcloughlin/mywork 
+2) Python Software Foundation. Welcome to python.org:
+ https://www.python.org
+3) Python:
+ https://realpython.com/
+4) Resurce with a lot necessary tools:
+ https://www.w3schools.com/
+5) AMDN: HTML:
+ https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
+6) MDN: Markdown:
+  https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Howto/Markdown_in_MDN
+7) **Python Docs: PEP 8 – Style Guide for Python Code:
+ https://peps.python.org/pep-0008/
+ 
 
